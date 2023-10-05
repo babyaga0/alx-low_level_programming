@@ -1,9 +1,12 @@
 #include <stdio.h>
+
+
 /**
- * main - this function is for puts
- * @void:  parameter
- * return: always 0
- * Desciption: this is for alx
+ * main - Entry point
+ *
+ * Description: 'alx puts'
+ * @void: void parameter
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
